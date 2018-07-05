@@ -19,7 +19,7 @@ struct Name {
 struct Address {
     int streetNumber;
     char street[41];
-    int apartmentNumber
+    int apartmentNumber;
     char postalCode[8];
     char city[41];
 }
