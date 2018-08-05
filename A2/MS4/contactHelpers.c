@@ -1,9 +1,5 @@
 /* -------------------------------------------
-Name:Xiao Saihong
-Student number:140777178
-Email:sxiao15@myseneca.ca
-Section:
-Date:2018/07/26
+
 ----------------------------------------------
 Assignment: 2
 Milestone:  4
